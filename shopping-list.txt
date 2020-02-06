@@ -1,5 +1,6 @@
 pastries
 chocolate ice cream
+VANILLA ice cream
 BR Rinse
 Bread
 cream
